@@ -1,0 +1,2 @@
+Human wins:	0
+Computer wins:	1
